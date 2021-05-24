@@ -1,6 +1,5 @@
-# repo001
+# RC카 시뮬레이터를 이용한 바닥 탐지 응용 설계 및 구현
+(A Design and Implementation of Floor Detection Application Using RC Car Simulator)
 
-
-Graduation Project: 바닥 평평도 조사 미니카 (Bump Sensing Vehicle)
-
-진동 센서와 초음파 센서를 통해 스스로 돌아다니면서 바닥 평평도를 조사해준다.
+정보처리학회논문지. 소프트웨어 및 데이터 공학
+https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002540103
